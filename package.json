@@ -3,7 +3,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "npm server.js",
+    "start": "node server.js",
     "devStart": "nodemon server.js"
   },
   "keywords": [],
